@@ -1,3 +1,3 @@
 # CommunityClassroomOP
 
-- Saksham Mawari says that community classroom is amazing.
+- Saksham Mawari said that community classroom is amazing.
